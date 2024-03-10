@@ -1,0 +1,1 @@
+stripe basic-quick implementation v 14.20.0
